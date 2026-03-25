@@ -5,7 +5,8 @@ fetch("http://localhost:3000/wanted_poster")
     // console.log(data);
     data.slice(0, 8).forEach((item) => {
       demo.innerHTML += `
-        <img src="image/${item.image}"alt="" width="150px" height="170px" >
+        <img src="image/${item.image}"alt="" width="160px" height="150px" >
+        
             `;
     });
   });

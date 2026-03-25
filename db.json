@@ -2,35 +2,39 @@
   "wanted_poster": [
     {
       "id": 1,
-      "image": "luff.jpg"
+      "image": "1.jpg"
     },
     {
       "id": 2,
-      "image": "zoro.jpg"
+      "image": "2.jpg"
     },
     {
       "id": 3,
-      "image": "nami.jpg"
+      "image": "3.jpg"
     },
     {
       "id": 4,
-      "image": "chop.jpg"
+      "image": "4.jpg"
     },
     {
       "id": 5,
-      "image": "san.jpg"
+      "image": "5.jpg"
     },
     {
       "id": 6,
-      "image": "robin.jpg"
+      "image": "6.jpg"
     },
     {
       "id": 7,
-      "image": "brook.jpg"
+      "image": "7.jpg"
     },
     {
       "id": 8,
-      "image": "usopp.jpg"
+      "image": "8.jpg"
+    },
+    {
+      "id": 8,
+      "image": "9.jpg"
     }
 
   ]
